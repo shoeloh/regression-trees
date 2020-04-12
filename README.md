@@ -42,5 +42,5 @@ Regression Tree plots are printed to RGraphics and are shown in the Rplots.pdf f
 Accuracies are printed to the Console.
 
 ## LICENSE  
-[MIT License](https://github.com/shoeloh/decision-trees-R/blob/master/LICENSE)  
+[MIT License](https://github.com/shoeloh/regression-trees-R/blob/master/LICENSE)  
 
