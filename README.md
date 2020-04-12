@@ -15,7 +15,7 @@ For both of these the programs perform the following analysis:
 3) List the important attributes
 4) Using the best pruning paramter, create a prunded tree 
 5) Divide the dataset into an 80/20 training/test split
-6) Build a pruned model using just the training data and use it to find the predicion on the test datasset. How much is the accuracy obtained.
+6) Build a pruned model using just the training data and use it to find the predicion on the test dataset. How much is the accuracy obtained.
 7) Repeate step 6) but this time use a 90/10 training/test split
 
 # COMPILING, INSTALLATION AND RUNNING  
